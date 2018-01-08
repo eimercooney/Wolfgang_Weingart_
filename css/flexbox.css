@@ -1,0 +1,10 @@
+article {
+      display: flex;
+}
+
+educationcontainer{
+      flex: 1;
+      padding-left: 4em; }
+      
+teachingcontainer {
+      flex:2;}
